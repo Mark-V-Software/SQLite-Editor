@@ -11,7 +11,6 @@ Ideal for developers, data analysts, or anyone who works hands-on with `.db` fil
 - 📂 **Open SQLite Databases**: Load `.db` files and browse schema effortlessly.
 - 📋 **View Tables & Records**: Clean, scrollable views with sortable columns.
 - ➕ **Add Tables & Records**: Custom dialogs for structured creation of tables and data.
-- 🖱️ **Right-Click Context Menus**: Fast actions for opening, editing, or deleting.
 - 🗑️ **Delete Safely**: Remove tables or rows with confirmation and error handling.
 - 🔄 **Auto-Refresh**: UI updates dynamically after changes (via `AutoReload`).
 - 🚨 **Robust Error Reporting**: Clear messages on malformed queries or data issues.
@@ -65,10 +64,9 @@ Run validation tests with:
 pytest
 ```
 
-Tests include checks for JSON format, content structure, and error handling.
-
 ---
 
 ## 📚 License
 
-LGPLv3 — Free for personal or commercial use. Contributions welcome!
+LGPLv3 — Free for personal or commercial use.
+
