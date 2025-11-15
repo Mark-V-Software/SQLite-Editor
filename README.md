@@ -1,8 +1,6 @@
 # 🗄️ SQLite Editor
 
-Your **intuitive desktop companion** for exploring, editing, and managing SQLite databases in a clean, responsive Qt-powered interface.
-
-Ideal for developers, data analysts, or anyone who works hands-on with `.db` files.
+It's a **desktop application** for exploring, editing, and managing SQLite databases.
 
 ---
 
@@ -69,4 +67,5 @@ pytest
 ## 📚 License
 
 LGPLv3 — Free for personal or commercial use.
+
 
